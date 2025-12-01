@@ -39,9 +39,5 @@ In addition to my university studies, I take various online courses.
   <img height="150" style="border-radius:50px;" src="https://i.pinimg.com/1200x/1a/00/ea/1a00ea7e32c2440ed0bc581ce7e562b1.jpg">
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamJesus-engandlawyer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 
 
