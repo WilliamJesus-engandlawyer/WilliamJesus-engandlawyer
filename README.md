@@ -9,7 +9,6 @@ In addition to my university studies, I take various online courses.
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamJesus-engandlawyer&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
   </a>
